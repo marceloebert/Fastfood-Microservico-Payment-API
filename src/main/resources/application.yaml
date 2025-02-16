@@ -42,8 +42,8 @@ management:
 
 production:
   api:
-    get-url: "http://afbcb4c2d264e4c86b3fabf0393d0af2-340032796.us-east-1.elb.amazonaws.com/{ORDER-ID}/status"
-    change-url: "http://afbcb4c2d264e4c86b3fabf0393d0af2-340032796.us-east-1.elb.amazonaws.com/{ORDER-ID}/status"
+    get-url: "http://a9fbeec2a57214fc79d3f9e3a97e09e4-752199734.us-east-1.elb.amazonaws.com/{ORDER-ID}/status"
+    change-url: "http://a9fbeec2a57214fc79d3f9e3a97e09e4-752199734.us-east-1.elb.amazonaws.com/{ORDER-ID}/status"
 
 # OpenAPI
 springdoc:
